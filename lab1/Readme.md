@@ -4,3 +4,7 @@
 - [решение](./solution.ipynb)
 - [отчет](./report.pdf)
 - [графики](./images)
+
+## Полезные ссылки
+
+- [теория](http://ktu.page.kg/source/docs/materials/doc_86.pdf)

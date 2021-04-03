@@ -4,3 +4,7 @@
 - [решение](./solution.ipynb)
 - [отчет](./report.pdf)
 - [графики](./images)
+
+Полезные ссылки
+
+- [метод Ньютона](http://fourier.eng.hmc.edu/e176/lectures/ch3/node6.html)
